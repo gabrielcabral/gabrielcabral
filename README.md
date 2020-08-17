@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Ary! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World, I'm Gabriel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-cabral-08213040/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,7 +20,6 @@
 
 ---
 
-Hi, I'm Gabriel.
 
 I'm a Developer from Brazil 💚
 
@@ -41,3 +40,9 @@ I'm a Developer from Brazil 💚
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
 
 ![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcabral&show_icons=true)
+
+
+
+<img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif" width="100%">
+
+
